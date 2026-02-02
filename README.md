@@ -1,6 +1,6 @@
 - Hello
 - My name is alex
-- i am learning C# and gane development
+- i am learning C# and game development
 - i might collab on something in the future
 - i am male
 
