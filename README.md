@@ -1,10 +1,8 @@
 - Hello
-- i am stupid
-- i am learning python web development
-- i am not gonna collab on anything
-- don't reach me
+- My name is alex
+- i am learning C# and gane development
+- i might collab on something in the future
 - i am male
-- fun fact : nothing
 
 <!---
 ADoesStuff/ADoesStuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
