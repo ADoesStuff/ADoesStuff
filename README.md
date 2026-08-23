@@ -1,6 +1,6 @@
 - Hello
 - My name is alex
-- i am learning C# and game development
+- i am learning C# and game development with monogame
 - i might collab on something in the future
 - i am male
 
